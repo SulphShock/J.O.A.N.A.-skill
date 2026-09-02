@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build output & caches
+dist/
+build/
+node_modules/
+__pycache__/
+*.log
