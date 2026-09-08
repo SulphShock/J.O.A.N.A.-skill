@@ -50,4 +50,7 @@ Just talk to the agent — JOANA picks its lead lens from the ask:
 
 ## License
 
+##Story Time
+There is actually a girl I know from my school Joana (idk if that's like the right spelling) but yeah i was lazy and chose her name and i wanted to put Jasmine in the team and i didnt know where to put her so based on her nmae i made this skill
+
 [MIT](LICENSE)
