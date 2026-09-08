@@ -48,9 +48,10 @@ Just talk to the agent — JOANA picks its lead lens from the ask:
 - **Panel Protocol** — all five lenses cross-examine work before it ships; disagreements surface, not average.
 - **SHIP gate** — one Definition of Done checklist spanning planning through security, so "done" is verifiable.
 
-## License
+## Story Time
+There is actually a girl I know from my school Joana (idk if that's like the right spelling) but yeah i was lazy and chose her name and i wanted to put Jasmine in the team and i didnt know where to put her so based on her name I made this skill
 
-##Story Time
-There is actually a girl I know from my school Joana (idk if that's like the right spelling) but yeah i was lazy and chose her name and i wanted to put Jasmine in the team and i didnt know where to put her so based on her nmae i made this skill
+
+## License
 
 [MIT](LICENSE)
