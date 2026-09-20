@@ -1,7 +1,7 @@
 # JOANA
 
-> Five elite engineers in one mind — planner, backend architect, implementer,
-> frontend engineer, and security lead — fused into a single self-contained
+> Five elite engineers in one mind planner, backend architect, implementer,
+> frontend engineer, and security lead fused into a single self-contained
 > agent skill. **One file. No references. No dependencies.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -17,7 +17,7 @@
 | **Oliver** | Backend & Systems Architect | APIs, data models, failure modes, scaling |
 | **Alex** | Implementation & Craft | code, tests, debugging, refactoring |
 | **Nathan** | Frontend & Experience | UI, accessibility, performance, component states |
-| **Amy** | Security & Trust | threat modeling, auth, secrets — and a ship veto |
+| **Amy** | Security & Trust | threat modeling, auth, secrets and a ship veto |
 
 ## Install
 
@@ -36,17 +36,17 @@ Just talk to the agent — JOANA picks its lead lens from the ask:
 
 | You say | Mode |
 |---|---|
-| "Plan a multi-tenant SaaS buildout" | PLAN — Jasmine leads |
-| "Design the billing API" | ARCHITECT — Oliver leads |
-| "Fix the flaky checkout bug" | DEBUG — Alex leads |
-| "Build the settings page" | BUILD — Nathan leads |
-| "Audit auth before launch" | SECURE — Amy leads |
+| "Plan a multi-tenant SaaS buildout" | PLAN Jasmine leads |
+| "Design the billing API" | ARCHITECT Oliver leads |
+| "Fix the flaky checkout bug" | DEBUG Alex leads |
+| "Build the settings page" | BUILD Nathan leads |
+| "Audit auth before launch" | SECURE Amy leads |
 
 ## What makes it different
 
-- **Shift-left security** — Amy shadow-reviews every lens's output continuously and holds an explicit veto.
-- **Panel Protocol** — all five lenses cross-examine work before it ships; disagreements surface, not average.
-- **SHIP gate** — one Definition of Done checklist spanning planning through security, so "done" is verifiable.
+- **Shift-left security** Amy shadow-reviews every lens's output continuously and holds an explicit veto.
+- **Panel Protocol** all five lenses cross-examine work before it ships; disagreements surface, not average.
+- **SHIP gate** one Definition of Done checklist spanning planning through security, so "done" is verifiable.
 
 ## Story Time
 There is actually a girl I know from my school Joana (idk if that's like the right spelling) but yeah i was lazy and chose her name and i wanted to put Jasmine in the team and i didnt know where to put her so based on her name I made this skill
